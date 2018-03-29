@@ -1,0 +1,6 @@
+c:\users\dolod\documents\visual studio 2015\Projects\AgeCens\AgeCens\bin\Debug\AgeCens.exe.config
+c:\users\dolod\documents\visual studio 2015\Projects\AgeCens\AgeCens\bin\Debug\AgeCens.exe
+c:\users\dolod\documents\visual studio 2015\Projects\AgeCens\AgeCens\bin\Debug\AgeCens.pdb
+c:\users\dolod\documents\visual studio 2015\Projects\AgeCens\AgeCens\obj\Debug\AgeCens.csprojResolveAssemblyReference.cache
+c:\users\dolod\documents\visual studio 2015\Projects\AgeCens\AgeCens\obj\Debug\AgeCens.exe
+c:\users\dolod\documents\visual studio 2015\Projects\AgeCens\AgeCens\obj\Debug\AgeCens.pdb
